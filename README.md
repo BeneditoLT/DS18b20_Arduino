@@ -1,3 +1,11 @@
+O DS18B20 é um sensor de temperatura digital de alta precisão que utiliza a interface 1-Wire para se comunicar com o microcontrolador. Ele é capaz de medir temperaturas de -55°C a +125°C com uma precisão de ±0,5°C. Ele é projetado para ser usado em ambientes com baixa corrente e é resistente à água. Ele pode ser usado para medir a temperatura em uma ampla variedade de aplicações.
+
+
+https://produto.mercadolivre.com.br/MLB-2643548686-sensor-temperatura-ds18b20-18b20-arduino-eletrokits-_JM
+
+
+
+
 Para usar o sensor de temperatura DS18B20 com o Arduino, siga os seguintes passos:
 
 1 - Comece baixando e instalando a biblioteca OneWire e DallasTemperature para o Arduino. Você pode fazer isso através do gerenciador de bibliotecas na interface do Arduino.
