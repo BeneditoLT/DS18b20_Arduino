@@ -32,3 +32,6 @@ Lembre-se de verificar se você tem as portas serial corretas configuradas no se
 
 
 ![codigo](https://user-images.githubusercontent.com/46333024/214854651-6d7f674a-8f28-421b-8650-92dfa4af6d15.png)
+
+![ds18b20_2](https://user-images.githubusercontent.com/46333024/214856681-41e5e658-c7ad-408c-9d35-342eab077b08.png)
+
