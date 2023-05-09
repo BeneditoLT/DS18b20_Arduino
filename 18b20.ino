@@ -14,5 +14,5 @@ void loop() {
   float tempC = sensors.getTempCByIndex(0);
   Serial.print("Temperatura em Celsius: ");
   Serial.println(tempC);
-  delay(1000);
+  delay(100);
 }
